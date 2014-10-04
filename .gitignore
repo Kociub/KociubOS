@@ -1,0 +1,8 @@
+# Compiled Object files
+*.o
+
+# Temp files
+*\~
+
+# Ignore the build files
+build
